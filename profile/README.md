@@ -1,7 +1,7 @@
 
 # Clu3 Bot Protection
 
-A Tool protecting Smart Contracts from bots 🤖
+A tool protecting Smart Contracts from bots 🤖
 
 ## Appendix
 
