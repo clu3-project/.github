@@ -1,5 +1,5 @@
 
-# Clu3 Bot Protection
+# Clu3 Bot Protection 🤖
 
 A tool protecting Smart Contracts from bots 🤖
 
