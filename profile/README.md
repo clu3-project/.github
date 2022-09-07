@@ -1,12 +1,81 @@
-## Clu3 Project 👋
 
-<!--
+# Clu3 Bot Protection
 
-**Here are some ideas to get you started:**
+A Tool protecting Smart Contracts from bots 🤖
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Appendix
+
+Any additional information goes here
+
+
+## Features
+
+- 
+- 
+- 
+- 
+
+
+## Tech Stack
+
+**Client:** React, Redux, TailwindCSS .
+
+**Backend:** Node, Express , Solidity , Hardhat , Tableland , Optimism , Polygon.
+
+
+## Installation
+
+Install clue3 with npm
+
+```bash
+  cd clu3-contracts
+  npm install 
+  
+```
+    
+## Demo
+
+Demo URL
+
+
+## Deployment
+
+To deploy this project run
+
+```bash
+  npm hardhat deploy
+```
+
+
+## Authors
+
+- [@gianlucadibella](https://www.github.com/gianlucadibella)
+- [@jbadillo99](https://www.github.com/jbadillo99)
+- [@carminatti](https://www.github.com/carminatti)
+- [@0xefrain](https://www.github.com/0xefrain)
+
+
+
+## FAQ
+
+#### Question 1
+
+Answer 1
+
+#### Question 2
+
+Answer 2
+
+
+## Usage/Examples
+
+```javascript
+{
+}
+```
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
