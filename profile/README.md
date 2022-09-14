@@ -52,8 +52,6 @@ To deploy this project run
 - [@gianlucadibella](https://www.github.com/gianlucadibella)
 - [@jbadillo99](https://www.github.com/jbadillo99)
 - [@carminatti](https://www.github.com/carminatti)
-- [@0xefrain](https://www.github.com/0xefrain)
-
 
 
 ## FAQ
