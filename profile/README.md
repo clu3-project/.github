@@ -28,7 +28,7 @@ In the SC we set the filters to confirm a valid transaction, letting pre-configu
     
 ## Demo
 
-[Demo URL](https://cludemo.vercel.app/)
+[cludemo.vercel.app](https://cludemo.vercel.app/)
 
 
 ## Authors
@@ -53,12 +53,12 @@ Depending on the Grants and Foundings we can get, there is expenses to build an 
 
 ## Usage/Examples
 
--Mint Sites.
--Dataforms protected SC.
--Agenda.
--Queues.
--Claims.
--Whatever needs to get b0ts away!
+- Mint Sites
+- Dataforms protected SC (data should be submited prior interaction)
+- Agenda
+- Queues
+- Claims
+- Whatever needs to get b0ts away!
 
 ## License
 
