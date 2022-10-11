@@ -1,17 +1,20 @@
 
 # clu3 🤖
 
-Get clu3 to get rid of the undesired bots putting hands on your smart contract! 🤖
+Use clu3 to get rid of the undesired bots putting hands on your smart contracts! 🤖
 
 ## Appendix
 
-lu3 is an easy to implement modular service that works with an easy to integrate modular Solidity function that lets any Smart Contract to add any humanity proof between functions to avoid the bots automatic transactions, in example a CAPTCHA (as seen in our demo site).
+clu3 is an easy to implement modular service that works with an easy to integrate modular Solidity function that lets any Smart Contract to add any humanity proof (modular) between functions to avoid the bots automatic transactions, in example a CAPTCHA (as seen in our demo site).
 
 Everyone in the space hates undesired bots transacting within us! the developers when they are willing to open a project to the real community for their organic growth and the degens when are going for their slot in some activation but is late because the bots got everything in 0.69 milliseconds.
 
-To do so we use a Keccak-256 signed string made by a timestamp, senderAddress and unique id (clu3_id) to reference each implementation, so we can avoid signature mining, tx hijacking and signature re-use respectively.
+To do so we use a Keccak-256 signed string made by: a timestamp, one senderAddress and one unique id (clu3_id) to reference each implementation, so we can avoid: 
+1º Signature mining by getting many transactions ready to use together (aka farming).
+2º Transaction hijacking, by capturing the signature in the pending transaction of other and use it paying more gas.
+3º Signature re-use, by sending the same data in a new transaction to a different function or smart contract that uses the same validator/signer.
 
-In the SC we set the filters to confirm a valid transaction, letting pre-configured whitelisted addresses to bypass the filter (for the own developers purposes) and a modular read/write web3 storage service buffer connection to check used timestamps, for our prototype demo site we use onchain storage.
+In the SC we set the filters to confirm a valid transaction, letting pre-configured whitelisted addresses to bypass the filter (for the own developers/functionallity purposes) and a modular read/write web3 storage service buffer connection to check used timestamps, for our prototype demo site we use onchain storage.
 
 ## Features
 
@@ -28,8 +31,15 @@ In the SC we set the filters to confirm a valid transaction, letting pre-configu
     
 ## Demo
 
-[cludemo.vercel.app](https://cludemo.vercel.app/)
+[clu3.framer.website](https://clu3.framer.website/)
 
+## Documentation
+
+[clu3-1.gitbook.io/clu3](https://clu3-1.gitbook.io/clu3/)
+
+## Twitter
+
+[https://twitter.com/clu3service](https://twitter.com/clu3service)
 
 ## Authors
 
